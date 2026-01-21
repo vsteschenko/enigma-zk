@@ -7,13 +7,13 @@ the server never sees, never stores, and can never reconstruct users’ financia
 
 Core Principles
 1. Zero-Knowledge by design
-All data is encrypted on the client.
-The server stores only encrypted data.
-Encryption keys are derived from the user’s password and never leave the browser.
-The server cannot read, analyze, or infer transaction data.
-Even the project maintainer cannot access user finances.
+* All data is encrypted on the client.
+* The server stores only encrypted data.
+* Encryption keys are derived from the user’s password and never leave the browser.
+* The server cannot read, analyze, or infer transaction data.
+* Even the project maintainer cannot access user finances.
 
 2. No Personally Identifiable Information
-No email addresses.
-No usernames tied to real identities.
-No names, phone numbers, or recovery emails.
+* No email addresses.
+* No usernames tied to real identities.
+* No names, phone numbers, or recovery emails.
